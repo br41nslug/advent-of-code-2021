@@ -1,5 +1,7 @@
+# Day 2
+
 A colleague reminded me that Excel can be considered a language too so why not.
-I made this in google sheets then exported it to `.xlsx` and `.ods` xD.
+I made this in google sheets then exported it to `.xlsx` and `.ods` for archiving purposes.
 
 ## --- Day 2: Dive! ---
 Now, you need to figure out how to pilot this thing.
