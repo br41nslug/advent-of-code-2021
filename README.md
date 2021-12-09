@@ -9,3 +9,6 @@ Day one i completed using both Bash and Python!
 ## Day 2
 A colleague of reminded me that Excel can be considered a language too so why not.
 I made this in google sheets then exported it to `.xlsx` and `.ods` for archiving purposes.
+
+## Day 3
+Doing day 3 in a language i've been dying to try out, Rust.
