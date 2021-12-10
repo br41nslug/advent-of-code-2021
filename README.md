@@ -16,3 +16,5 @@ Doing day 3 in a language i've been dying to try out, Rust.
 ## Day 4
 Why not go with plain ol' Javascript for this one.
 
+## Day 5
+For today im going with a language i do not agree with on all design choices but hell it's still a damn useful language, Go.
