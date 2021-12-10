@@ -12,3 +12,7 @@ I made this in google sheets then exported it to `.xlsx` and `.ods` for archivin
 
 ## Day 3
 Doing day 3 in a language i've been dying to try out, Rust.
+
+## Day 4
+Why not go with plain ol' Javascript for this one.
+
